@@ -1,0 +1,17 @@
+.container-fluid{
+    background-color: whitesmoke;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 15px;
+}
+.nav :hover{
+    background-color: gray;
+}
+/* css for images in motor brands to have border radius */
+.img-fluid{
+    border-radius: 15px;
+}
+.img-fluid :hover{
+    background-color: brown;
+}
