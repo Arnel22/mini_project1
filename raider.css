@@ -98,22 +98,58 @@ ul.thumb li img{
     font-size: 30px;
 }
 
-/* css for header */
-header{
-    background-image: url("https://www.brandsynario.com/wp-content/uploads/2018/05/hondapakistan.jpg");
-    height: 100vh;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 69%;
+body{
+
+    background-color:gray;
+    }
+    .image{
+    
+        height: 100px;
+        width: 100px;
+        padding: 10px;
+        border-radius: 50%;
+    }
+    .nav-item :hover{
+    
+        background-color: gray;
+        font-size: 20px;
+    }
+    .col-md-2{
+    
+        background: transparent;
+        border: none;
+    }
+    .img-slider{
+    
+        border-radius: 15px;
+        height: 10px;
+    }
     
     
-}
+    .card-img-top{
+    
+        border: solid black 1px;
+        border-radius: 10px;
+    }
+    
+    .card-group{
+    
+        border-radius: 10px;
+    }
 
 /* css for navbar background */
 .nav-link:hover{
     background-color:gray;
     border-radius: 10px;
 
+}
+
+.image{
+
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 50%;
 }
 
 
